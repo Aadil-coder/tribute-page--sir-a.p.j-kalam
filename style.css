@@ -1,0 +1,85 @@
+*{
+    text-align: center;
+    justify-content: center;
+    display: inline-flexbox;
+    background-color: #fdfdfd;
+}
+.image-apj{
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(255, 251, 251);
+    border-radius: 13px;
+}
+.image-apj :hover{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 18px;
+    margin: 30px;
+    background-color: aqua;
+    transition: 3s ;
+    border-radius: 13px;
+    
+    
+}
+.copyright{
+    text-align: center;
+    justify-content: center;
+    padding: 17px;
+
+}
+.title{
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    padding: 20px ;
+    margin: 10px;
+    background-color: rgb(7, 0, 0);
+    color: #fdfdfd;
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+    padding: 3px ;
+    margin: 15px;
+    font-size: 2rem;
+    color: blue;
+    border-radius: 50px;
+
+}
+.contact {
+    background-color: #0c0b0b;
+    color: rgb(19, 1, 1);
+    padding: 17px;
+    margin: 17px;
+    border-radius: 25px;
+    border-style: dashed;
+    font-size: 2rem;
+}
+
+
+.introduction ,p{
+background-color: black;
+    color: #ec0a0a;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 17px;
+}
+.wikipedia{
+    background-color: #ec0a0a;
+    color: #fdfdfd;
+    font-size: 1rem;
+    margin: 10px;
+    border-radius: 10px;
+}
+.wikipedia :hover{
+    background-color: #0a0000;
+    color: #fd260a;
+    font-size: 2rem;
+    padding: 7px;
+    border-radius: 10px;
+    margin: 13px;
+}
